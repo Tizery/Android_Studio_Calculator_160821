@@ -16,4 +16,5 @@
     <string name="key_sub">-</string>
     <string name="key_add">+</string>
     <string name="key_equ">=</string>
+    <string name="calc_field">поле для вычислений</string>
 </resources>
