@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CalcButton">
+        <item name="android:layout_margin">@dimen/small_margin</item>
+        <item name="backgroundTint">@color/btn_color</item>
+        <item name="android:textSize">@dimen/btn_text_size</item>
+        <item name="strokeWidth">@dimen/stroke_width</item>
+        <item name="strokeColor">@color/stroke_color</item>
+    </style>
+
+</resources>
